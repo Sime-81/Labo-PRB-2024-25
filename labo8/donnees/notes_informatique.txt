@@ -1,8 +1,8 @@
-Aline       Dupond         9.4   0.6  11.0   8.4  15.0
-Suzanne     Dupont         2.2  13.6  12.6   4.4   4.8
-Lambert     Dumas          0.4   0.6  19.2  18.8  17.6
-Arsène      Valjean       11.0   3.8   0.4   3.4  18.2
-Joseph      Labille        8.6   0.6   9.4  16.4   2.2
-William     Lafleur       17.2  18.2  11.0  16.8   6.8
-Véronique   Dubois        17.2  19.0  10.2   2.6   4.4
-Nicole      Dujardin      20.0   7.6   1.6   1.0   4.4
+Aline       Dupond        18.6  15.0   3.0   4.2   1.4
+Suzanne     Dupont        10.6  19.6  20.0  19.6  12.4
+Lambert     Dumas         16.6   9.4   5.2  14.6  15.4
+Arsène      Valjean        5.6  17.8  16.0   3.8   5.2
+Joseph      Labille        5.0  13.6  10.8  20.0  15.6
+William     Lafleur       14.4  13.2   3.6  15.2   6.0
+Véronique   Dubois         5.6  14.8   5.4  17.6  13.2
+Nicole      Dujardin       0.4  15.4   0.6   6.2   4.2
