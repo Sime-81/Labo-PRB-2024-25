@@ -61,6 +61,7 @@ def generer_tableau_de_notes(liste_de_classes, nb_notes):
         tableau_de_note.append([prenom, nom] + generer_notes(nb_notes))
     return tableau_de_note
 
+
 def formater_ligne_notes(prenom, nom, notes):
     """
     Formate une ligne contenant le prénom, le nom et les notes d'un élève.
@@ -73,8 +74,8 @@ def formater_ligne_notes(prenom, nom, notes):
     :return: chaîne de caractères formatée contenant le prénom, le nom, et les notes de l'élève
     :rtype: str
     """
-    note_formatée = "".join(f'{note:>6}'for note in notes)
-    return f'{prenom:<12}{nom:<12}{note_formatée}\n'
+    note_formatee = "".join(f'{note:>6}'for note in notes)
+    return f'{prenom:<12}{nom:<12}{note_formatee}\n'
 
 
 def ecrire_fichier_de_notes(nom_fichier, tableau_de_note):
